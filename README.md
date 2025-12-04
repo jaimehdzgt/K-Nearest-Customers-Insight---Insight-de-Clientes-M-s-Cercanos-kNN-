@@ -1,16 +1,6 @@
 # K-Nearest-Customers-Insight - Clientes Mas Cercanos-kNN
 Ayuda a encontrar clientes “parecidos” entre sí, usando la información que ya tenemos de su comportamiento (compras, frecuencia, ticket, etc.).
 
-# Customer Lookalike Finder – Motor de Clientes Gemelos para Marketing Dirigido
-
-![NovaRetail Lookalike Banner](assets/header_lookalike.png)
-
-> **Empresa ficticia:** NovaRetail Group  
-> **Industria:** Retail omnicanal (tiendas físicas + e-commerce)  
-> **Área responsable:** Data & Analytics / CRM & Marketing
-
----
-
 ## 🎯 Objetivo del proyecto
 
 En NovaRetail Group, las áreas de **Marketing y CRM** necesitan identificar de forma sistemática qué clientes se parecen más a sus **mejores compradores**, con el fin de:
